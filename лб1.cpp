@@ -5,6 +5,8 @@ using namespace std;
 #include <string>
 #include <Windows.h>
 
+// Пример изменений 1
+
 BOOL PrintStrings(HANDLE hOut, ...);
 BOOL PrintMsg(HANDLE hOut, LPCTSTR pMsg);
 VOID ReportError(LPCTSTR UserMessage, DWORD ExitCode, BOOL PrintErrorMsg)
