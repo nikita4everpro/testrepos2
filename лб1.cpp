@@ -5,7 +5,8 @@ using namespace std;
 #include <string>
 #include <Windows.h>
 
-// Пример изменений 1
+// Change 1
+// Change 2
 
 BOOL PrintStrings(HANDLE hOut, ...);
 BOOL PrintMsg(HANDLE hOut, LPCTSTR pMsg);
