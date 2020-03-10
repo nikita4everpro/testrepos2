@@ -8,8 +8,6 @@ using namespace std;
 // Change 1
 // Change 2
 
-//change second branch 1
-
 BOOL PrintStrings(HANDLE hOut, ...);
 BOOL PrintMsg(HANDLE hOut, LPCTSTR pMsg);
 VOID ReportError(LPCTSTR UserMessage, DWORD ExitCode, BOOL PrintErrorMsg)
