@@ -9,6 +9,7 @@ using namespace std;
 // Change 2
 
 //change second branch 1
+//change second branch 2
 
 BOOL PrintStrings(HANDLE hOut, ...);
 BOOL PrintMsg(HANDLE hOut, LPCTSTR pMsg);
